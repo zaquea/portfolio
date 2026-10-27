@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/readme-hero.svg" alt="Zaque — personal portfolio. Curiosity, put to work. Front-end, Linux and cloud security." width="100%" />
+  <img src="src/assets/readme-hero.svg" alt="Zaque — personal portfolio. Curiosity, put to work. Front-end, Linux and cloud security." width="100%" />
   <br />
   <br />
   <p>
